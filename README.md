@@ -1,4 +1,6 @@
-## Hi there 👋
+## <img width="736" height="541" alt="george russell" src="https://github.com/user-attachments/assets/c97d1660-7dc3-4c15-be98-a10fd9b4d1ca" />
+
+
 
 <!--
 **aeth3rr/aeth3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
