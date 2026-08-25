@@ -2,7 +2,7 @@
 <img width="1008" height="491" alt="Screenshot 2026-08-24 8 04 59 PM" src="https://github.com/user-attachments/assets/9dff580e-0bd8-4598-bfb8-f78ee7ed99fb" />
 
 <img width="260" height="144" alt="aznp4w" src="https://github.com/user-attachments/assets/9c635b40-224e-4aef-ac3e-0c180ae842e7" />
-
+welcome to skibidi toilet baku my dudes
 <!--
 **aeth3rr/aeth3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
