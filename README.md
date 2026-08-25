@@ -1,4 +1,4 @@
-## ![](https://komarev.com/ghpvc/?username=aeth3rr&color=00a19c)
+## ![](https://komarev.com/ghpvc/?username=aeth3rr&color=00a19c&label=race+wins)
 <img width="1008" height="491" alt="Screenshot 2026-08-24 8 04 59 PM" src="https://github.com/user-attachments/assets/9dff580e-0bd8-4598-bfb8-f78ee7ed99fb" />
 
 
