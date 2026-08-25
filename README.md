@@ -1,4 +1,4 @@
-## <img width="736" height="541" alt="george russell" src="https://github.com/user-attachments/assets/c97d1660-7dc3-4c15-be98-a10fd9b4d1ca" />
+## <img width="1008" height="491" alt="Screenshot 2026-08-24 8 04 59 PM" src="https://github.com/user-attachments/assets/9dff580e-0bd8-4598-bfb8-f78ee7ed99fb" />
 
 
 
