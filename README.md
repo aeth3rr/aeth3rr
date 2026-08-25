@@ -1,6 +1,5 @@
 ## ![](https://komarev.com/ghpvc/?username=aeth3rr&color=00a19c&label=race+wins)
 <img width="1008" height="491" alt="Screenshot 2026-08-24 8 04 59 PM" src="https://github.com/user-attachments/assets/9dff580e-0bd8-4598-bfb8-f78ee7ed99fb" />
-https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydmxkdjQ2N3l4d2x0a2J1NmhicGdrbHdyN3BkZWpmenFqcGM0Y3RrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6eUhrFvDAToMHY2j6x/200w.gif
 
 <!--
 **aeth3rr/aeth3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
