@@ -1,5 +1,5 @@
 ## ![](https://komarev.com/ghpvc/?username=aeth3rr&color=00a19c&label=race+wins)
-<img width="1008" height="491" alt="Screenshot 2026-08-24 8 04 59 PM" src="https://github.com/user-attachments/assets/9dff580e-0bd8-4598-bfb8-f78ee7ed99fb" />
+<img width="300" height="188" alt="broooo" src="https://github.com/user-attachments/assets/06534f85-a9be-4649-bedb-8e96b7a19c65" />
 
 <img width="65" height="36" alt="aznp4w" src="https://github.com/user-attachments/assets/9c635b40-224e-4aef-ac3e-0c180ae842e7" />
 <img width="735" height="919" alt="brocedes_" src="https://github.com/user-attachments/assets/f4a7e0ff-3f4f-40dd-b68d-1eb86a1f8d4e" />
