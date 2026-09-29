@@ -1,7 +1,8 @@
 ## ![](https://komarev.com/ghpvc/?username=aeth3rr&color=00a19c&label=race+wins)
 <img width="300" height="188" alt="broooo" src="https://github.com/user-attachments/assets/06534f85-a9be-4649-bedb-8e96b7a19c65" />
 <!--
-![Profile Views](https://komarev.com)
+![](https://komarev.com/ghpvc/?aeth3rr=wdc-wins&color=blue)
+
 **aeth3rr/aeth3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
