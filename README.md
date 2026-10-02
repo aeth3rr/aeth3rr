@@ -4,4 +4,5 @@
 <p align="center">
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&pause=1000&color=99384F&center=true&width=435&lines=friend+is+a+big+word.+what+exactly+is+a+friend%3F" alt="Typing SVG" /></a>
