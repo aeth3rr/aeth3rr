@@ -4,5 +4,4 @@
 <p align="center">
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&pause=1000&color=99384F&center=true&width=435&lines=the+dream+of+being+a+world+champion+is+just+that+much+greater+than+a+friendship." alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&pause=1000&color=99384F&center=true&width=435&lines=friend+is+a+big+word.+what+exactly+is+a+friend%3F" alt="Typing SVG" /></a>
