@@ -3,6 +3,7 @@
 <img width="600" height="240" alt="hahah for  set" src="https://github.com/user-attachments/assets/08b2c3ed-bbea-4971-bec1-9b7672019865" />
 <p align="center">
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+<img width="712" height="128" alt="OMG NO WAY" src="https://github.com/user-attachments/assets/6118441b-eaa2-4b52-8572-de0758197058" />
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&pause=1000&color=99384F&center=true&width=435&lines=friend+is+a+big+word.+what+exactly+is+a+friend%3F" alt="Typing SVG" /></a>
