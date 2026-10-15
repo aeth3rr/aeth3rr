@@ -1,5 +1,7 @@
 ## ![](https://komarev.com/ghpvc/?username=aeth3rr&color=99384F&label=wdc+wins)
 <p align="center">
+𓄲  𓏼  aeth3rr 𓈒   ! she / her ,, obsessed w/ my boyf! ^_^
+<p align="center">
 <img width="600" height="240" alt="hahah for  set" src="https://github.com/user-attachments/assets/08b2c3ed-bbea-4971-bec1-9b7672019865" />
 <p align="center">
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
